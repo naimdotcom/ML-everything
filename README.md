@@ -38,9 +38,7 @@ Linear regression built from scratch using gradient descent to predict median ho
 
 ### Run in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/YOUR_USERNAME/YOUR_REPO/blob/main/housing_pricing_prediction_linear_regression/housing_pricing_prediction_linear_regression.ipynb)
-
-> Replace `YOUR_USERNAME` and `YOUR_REPO` after pushing to GitHub.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/naimdotcom/ML-everything/blob/main/housing_pricing_prediction_linear_regression/housing_pricing_prediction_linear_regression.ipynb)
 
 ---
 
